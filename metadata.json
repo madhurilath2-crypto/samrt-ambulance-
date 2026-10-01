@@ -1,0 +1,6 @@
+{
+  "name": "VitalX – Smart Ambulance & Emergency Health ID System",
+  "description": "Real-time emergency healthcare coordination platform connecting ambulance staff, patients via secure Health ID, and hospital emergency teams.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
